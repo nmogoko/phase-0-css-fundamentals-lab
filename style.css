@@ -3,3 +3,40 @@ body {
   height: 100%;
   margin: 0;
 }
+header {
+text-align: center;
+} 
+h1 {
+  color: red;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+ nav a { 
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: blanchedalmond;
+} 
+figcaption {
+  font-size: medium;
+  text-align: center;
+}
+p#featured-property {
+  width:fit-content 800px;
+  text-align:inherit
+}
+.contact{
+  float: left;
+}
+.correspondance {
+  float: left;
+}
+.links{
+  float: left;
+}
+section#details {
+  background-color: red;
+  width: 25%;
+}
